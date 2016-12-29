@@ -1,6 +1,6 @@
 #JSTREE使用手册
 
-[A DEMO URL](http://kirisamenana.com/frontend/tree/tree.php)
+[A DEMO URL](http://115.159.119.52/frontend/tree/tree.php)
 ##引入
 ```
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jstree/3.0.9/themes/default/style.min.css"/>
